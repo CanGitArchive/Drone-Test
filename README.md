@@ -26,6 +26,7 @@ Bluetooth remote:
 Mechanics of the taken from [ecalc. ](https://www.ecalc.ch/):
 
 
-![image](https://github.com/user-attachments/assets/f0ea9b20-1eda-41f6-967b-ac48e14983f6)
+![i2zy6sha](https://github.com/user-attachments/assets/039ac068-25cd-479a-9d8c-fb01190ea0a3)
+
 
 
