@@ -39,6 +39,16 @@ Thrust/weight sizing in eCalc:
 
 ![eCalc sizing](https://github.com/user-attachments/assets/039ac068-25cd-479a-9d8c-fb01190ea0a3)
 
+## Electronics: the Bluetooth pump remote
+
+The spray pump is toggled in flight by a custom Bluetooth remote, an HC-05 master/slave pair with both PCBs designed in **Proteus**. The wiring was also documented as a 2D schematic in SolidWorks.
+
+![Bluetooth remote wiring schematic (SolidWorks 2D)](hardware/bt-remote-schematic.jpg)
+
+Proteus PCB layouts (vector, click to open):
+- [Master remote PCB](hardware/master-remote-bluetooth-pcb.svg)
+- [Slave / motor receiver PCB](hardware/slave-motor-bluetooth-pcb.svg)
+
 ## Measured (model)
 
 | | Weight | Flight time |
